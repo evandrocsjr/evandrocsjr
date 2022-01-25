@@ -1,7 +1,7 @@
 ## Olá, bem-vindo ao meu perfil 👋
 
 - 📚 Estudando Node.js
-- 👷 Trabalho com front-end com Vue.js
+- 👷 Trabalho com front-end Vue.js
 
 <div align="center">
   <a href="https://github.com/evandrocsjr">
