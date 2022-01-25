@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu perfil 👋
+## Bem-vindo ao meu perfil 🤪
 
 - 📚 Estudando Node.js
 - 👷 Trabalho com front-end Vue.js
