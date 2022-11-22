@@ -1,7 +1,6 @@
 ## Bem-vindo ao meu perfil 🤪
 
-- 📚 Estudando Java
-- 👷 Trabalho com front-end Vue.js
+- 👷 Trabalho com front-end Vue/React - back-end Java
 
 <div align="center">
   <a href="https://github.com/evandrocsjr">
