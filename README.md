@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil 🤪
 
 - 👷 Trabalho com front-end Vue/React - back-end Java
-- Cursando Ciência da Computação 2/8 - UFN 
+- Cursando Ciência da Computação 3/8 - UFN 
 
 <div align="center">
   <a href="https://github.com/evandrocsjr">
